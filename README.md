@@ -1,5 +1,10 @@
 <h1 align="center">Hi there :smile: </h1>
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrodcs)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.leandrodcs@gmail.com)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leandrodcs)
+
+
 ## About me :speech_balloon:
 
 - 👋 Hi There, my name is Leandro and I'm 27 years old;
@@ -7,12 +12,6 @@
 - 🌱 I'm a Civil Engineer gratuated from [UTFPR](http://www.utfpr.edu.br/).
 - 👯 I’m looking to collaborate on open source.
 - 💬 Ask me about ... Anything.
-
-### Talk to me, I’ll answer ASAP:
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrodcs)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.leandrodcs@gmail.com)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leandrodcs)
 
 ## Technologies that I'm currently improving on :books:
 
