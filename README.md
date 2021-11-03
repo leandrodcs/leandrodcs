@@ -5,10 +5,8 @@
 - 👋 Hi There, my name is Leandro and I'm 27 years old;
 - 🔭 I’m currently being trained at [Driven Education](https://www.driven.com.br/) to be a Fullstack developer and I expect to be graduated in early February;
 - 🌱 I'm a Civil Engineer gratyated from [UTFPR](http://www.utfpr.edu.br/);
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- ⚡ About me: I love talking about game design and ideas
-[Driven Education](https://www.driven.com.br/)
+- 👯 I’m looking to collaborate on open source;
+- 💬 Ask me about ... Anything.
 
 ### Talk to me, I’ll answer ASAP:
 
