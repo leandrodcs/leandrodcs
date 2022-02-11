@@ -7,7 +7,7 @@
 
 ## About me :speech_balloon:
 
-- 👋 Hi There, my name is Leandro and I'm 27 years old.
+- 👋 Hi There, my name is Leandro and I'm a fullstack developer.
 - 🔭 I’m currently being trained at [Driven Education](https://www.driven.com.br/) to be a Fullstack developer, I expect to be graduated in early February of 2022.
 - :classical_building: I have a degree in civil engineering from [UTFPR](http://www.utfpr.edu.br/).
 - :world_map: I've worked as an english teacher for nearly two years.
